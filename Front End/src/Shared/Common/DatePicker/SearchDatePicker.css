@@ -1,0 +1,56 @@
+.search-date-picker .MuiOutlinedInput-root {
+  height: 30px !important;
+  min-height: 30px !important;
+  background-color: #fff !important;
+  border-radius: 6.175px !important;
+  font-size: 12px !important; /* same as fs-8 */
+  padding: 0 !important;
+}
+
+.search-date-picker .MuiOutlinedInput-input {
+  padding: 0 8px !important;
+  font-size: 12px !important;
+}
+
+.search-date-picker .MuiOutlinedInput-notchedOutline {
+  border-color: #939292; /* same as normal input border */
+}
+
+.search-date-picker
+  .MuiOutlinedInput-root:hover
+  .MuiOutlinedInput-notchedOutline {
+  border-color: #939292;
+}
+
+.search-date-picker
+  .MuiOutlinedInput-root.Mui-focused
+  .MuiOutlinedInput-notchedOutline {
+  border-color: #a9e08d; /* green focus border */
+  border-width: 1px !important;
+}
+
+.search-date-picker .MuiSvgIcon-root {
+  font-size: 18px !important;
+  color: #6b7280 !important;
+}
+
+/* Make the icon button fit inside the 30px height */
+.search-date-picker .MuiInputAdornment-root,
+.search-date-picker .MuiIconButton-root {
+  height: 30px !important;
+  min-height: 30px !important;
+  max-height: 30px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: flex;
+  align-items: center;
+}
+
+/* Resize the calendar icon */
+.search-date-picker .MuiSvgIcon-root {
+  font-size: 16px !important;
+}
+
+.search-date-picker .MuiOutlinedInput-root {
+  padding-right: 5px !important;
+}

@@ -1,0 +1,53 @@
+/* Custom styling for MUI DatePicker to match the provided UI */
+.current-date-picker .MuiOutlinedInput-root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Remove focus outline glow */
+.current-date-picker .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  box-shadow: none;
+}
+
+/* Calendar popup clean background */
+.MuiPickersPopper-root .MuiPaper-root {
+  background-color: #fff;
+}
+
+/* Weekend day colors - Only Saturdays (7th child) and Sundays (1st child) */
+.MuiDayCalendar-weekContainer .MuiPickersDay-root:nth-child(1),
+.MuiDayCalendar-weekContainer .MuiPickersDay-root:nth-child(7) {
+  color: #ef4444 !important;
+}
+
+/* Keep selected days with dark text */
+.MuiDayCalendar-weekContainer .MuiPickersDay-root.Mui-selected {
+  color: #111827 !important;
+  background-color: #bbf7d0 !important;
+}
+
+/* Smooth transitions */
+.MuiPickersDay-root {
+  transition: all 0.2s ease;
+}
+
+/* Clear button styling */
+.current-date-picker .MuiIconButton-root {
+  transition: background-color 0.2s ease;
+}
+
+/* Clear button (X) hover effect */
+.current-date-picker .MuiInputAdornment-root .MuiIconButton-root:hover {
+  background-color: #fee2e2;
+}
+
+/* Clear button icon size */
+.current-date-picker .MuiInputAdornment-root .MuiIconButton-root svg {
+  font-size: 18px;
+  color: #6b7280;
+}
+
+/* Input placeholder styling */
+.current-date-picker input::placeholder {
+  color: #9ca3af;
+  opacity: 1;
+}

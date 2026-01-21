@@ -1,0 +1,21 @@
+/* .rdrDefinedRangesWrapper{
+    display: none;
+  } */
+
+.rdrDateRangePickerWrapper {
+  justify-content: center;
+  width: 100%;
+}
+.rdrDayDisabled {
+  background-color: #d22b2b !important;
+}
+
+.icon-container {
+  padding: 2%;
+  text-align: end;
+}
+
+.rdrDayDisabled .rdrDayNumber span {
+  color: #fff;
+  font-weight: 900;
+}

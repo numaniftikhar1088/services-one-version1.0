@@ -1,0 +1,4 @@
+.fixed-scrollbar {
+    overflow: auto;
+    background: lightgreen;
+}

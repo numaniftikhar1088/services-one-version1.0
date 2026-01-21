@@ -1,0 +1,329 @@
+.pending-specimen-collection {
+    color: #fff;
+    background-color: #808080; /* Gray */
+}
+
+.specimen-collected {
+    color: #fff;
+    background-color: #0000FF; /* Blue */
+}
+
+.check-in {
+    color: #fff;
+    background-color: #008000; /* Green */
+}
+
+.in-transit {
+    color: #000;
+    background-color: #FFA500; /* Orange */
+}
+
+.processing {
+    color: #fff;
+    background-color: #800080; /* Purple */
+}
+
+.result-available {
+    color: #fff;
+    background-color: #008080; /* Teal */
+}
+
+.validated {
+    color: #fff;
+    background-color: #006400; /* Dark Green */
+}
+
+.published {
+    color: #000;
+    background-color: #00CED1; /* Blue-Green */
+}
+
+.save-for-signature {
+    color: #000;
+    background-color: #ADD8E6; /* Light Blue */
+}
+
+.pending-pharmd {
+    color: #000000;
+    background-color: #F4C542; /* Yellow */
+}
+
+.ready-for-billing {
+    color: #fff;
+    background-color: #00008B; /* Dark Blue */
+}
+
+.sent-to-bill {
+    color: #fff;
+    background-color: #800080; /* Dark Purple */
+}
+
+.pending-billing-approval {
+    color: #000000;
+    background-color: #FFE066; /* Gold */
+}
+
+.payment-received {
+    color: #fff;
+    background-color: #008000; /* Green */
+}
+
+.billing-rejected {
+    color: #fff;
+    background-color: #FF0000; /* Red */
+}
+
+.missing-info {
+    color: #000;
+    background-color: #D3D3D3; /* Light Gray */
+}
+
+.result-error {
+    color: #fff;
+    background-color: #8B0000; /* Dark Red */
+}
+
+.pending-rejection {
+    color: #000;
+    background-color: #FFC0CB; /* Pink */
+}
+
+.approved {
+    color: #fff;
+    background-color: #006400; /* Dark Green */
+}
+
+.rejected-qns {
+    color: #000;
+    background-color: #FF4500; /* Light Red */
+}
+
+.pa-pending {
+    color: #000;
+    background-color: #9370DB; /* Light Purple */
+}
+
+.remove-hold {
+    color: #000;
+    background-color: #FFA500; /* Light Orange */
+}
+
+.on-hold {
+    color: #fff;
+    background-color: #A52A2A; /* Brown */
+}
+
+.ready-for-ship {
+    color: #000;
+    background-color: #00FF00; /* Light Green */
+}
+
+.complete {
+    color: #fff;
+    background-color: #008080; /* Dark Teal */
+}
+
+.rejected {
+    color: #fff;
+    background-color: #FF0000; /* Red */
+}
+
+.deleted {
+    color: #fff;
+    background-color: #000000; /* Black */
+}
+
+
+/* =========================================== */
+
+.badge-status-active {
+    background-color: #52CD8A;
+    color: #ffffff;
+}
+ 
+.badge-status-inactive {
+    background-color: #F8011A;
+    color: #ffffff;
+}
+ 
+.badge-status-in-transit {
+    background-color: rgba(5, 67, 61, 0.813);
+    color: #ffffff;
+}
+ 
+.badge-status-shipped {
+    background-color: #4A5699;
+    color: #ffffff;
+}
+ 
+.badge-status-needs-approval {
+    background-color: #994A5A;
+    color: #ffffff;
+}
+ 
+.badge-status-viewed {
+    background-color: #B0B311;
+    color: #ffffff;
+}
+
+.badge-status-new-order {
+    background-color: #3F1010;
+    color: #ffffff;
+}
+ 
+.badge-status-view-detail {
+    background-color: #75BAFB;
+    color: #ffffff;
+}
+ 
+.badge-status-ready-to-validate {
+    background-color: #026056;
+    color: #ffffff;
+}
+
+.badge-status-ready-to-publish {
+    background-color: #7368E9;
+    color: #ffffff;
+}
+ 
+.badge-status-final {
+    background-color: #19B347;
+    color: #ffffff;
+}
+
+.badge-status-corrected {
+    background-color: #034A52;
+    color: #ffffff;
+}
+ 
+.badge-status-pending {
+    background-color: #E25822;
+    color: #ffffff;
+}
+ 
+.badge-status-collected {
+    background-color: #387BFF;
+    color: #ffffff;
+}
+ 
+.badge-status-specimen-collected {
+    background-color: #0061A4;
+    color: #ffffff;
+}
+ 
+.badge-status-canceled {
+    background-color: #E4E6EF;
+    color: #070910;
+}
+
+ 
+.badge-status-assigned {
+    background-color: #7D3F8A;
+    color: #ffffff;
+}
+ 
+.badge-status-queue {
+    background-color: #E3CC20;
+    color: #ffffff;
+}
+ 
+.badge-status-queued {
+    background-color: #A2845E;
+    color: #ffffff;
+}
+ 
+.badge-status-results-available {
+    background-color: #01BC4D;
+    color: #ffffff;
+}
+ 
+.badge-status-save-for-later {
+    background-color: #75BAFB;
+    color: #ffffff;
+}
+ 
+.badge-status-waiting-for-Signature {
+    background-color: #FFCC00;
+    color: #000000;
+}
+ 
+.badge-status-deleted {
+    background-color: #EC0C24;
+    color: #ffffff;
+}
+ 
+.badge-status-rejected {
+    background-color: #CC4B37;
+    color: #ffffff;
+}   
+ 
+.badge-status-completed {
+    background-color: #398A25;
+    color: #ffffff;
+}
+ 
+.badge-status-missing-info {
+    background-color: #070910;
+    color: #ffffff;
+}
+ 
+.badge-status-validated {
+    background-color: #36868E;
+    color: #ffffff;
+}
+ 
+.badge-status-specimen-collected {
+    background-color: #1653EF;
+    color: #ffffff;
+}
+   
+.badge-status-processing{
+    background-color: #F4C542;
+    color: #000000;
+}
+.badge-status-default {
+    background-color: #8c4949;
+    color: #fff;
+}
+
+.badge-status-hold {
+    color: #fff;
+    background-color: rgb(5, 137, 5);
+}
+
+.badge-status-save-for-signature {
+    color: #000;
+    background-color: #ADD8E6; /* Light Blue */
+}
+
+.badge-status-complete {
+    color: #fff;
+    background-color: #008080; /* Dark Teal */
+}
+
+.badge-status-result-available {
+    color: #fff;
+    background-color:#01BC4D; 
+}
+
+.badge-status-success {
+    color: #fff;
+    background-color:#44A02D; 
+}
+
+.badge-status-invalid-format {
+    color: #fff;
+    background-color: #B3311D; 
+}
+
+
+.custom-scroll-nk{
+    position: fixed;
+    height: 16px;
+    bottom: 0;
+    width: calc(100% - 361px);
+    z-index: 9999;
+}
+.data-kt-app-sidebar-minimize-on .custom-scroll-nk{
+    width: calc(100% - 152px);
+}

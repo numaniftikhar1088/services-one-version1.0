@@ -1,0 +1,347 @@
+/* ********* Infectious Disease ********* */
+.infectious-disease-req {
+    border: 1px solid #69A54B;
+}
+
+.infectious-disease-req > .card-header {
+    background: #d2e4c9;
+}
+
+/* ********* TOX ********* */
+.tox-req {
+    border: 1px solid #8950FC;
+}
+
+.tox-req > .card-header {
+    background: #EEE5FF;
+}
+
+/* ********* BLOOD ********* */
+.blood-req {
+    border: 1px solid #F64E60
+}
+
+.blood-req > .card-header {
+    background: #FBAFB7;
+}
+
+
+/* ********* NGS ********* */
+.ngs-req {
+    border: 1px solid #F64E60
+}
+
+.ngs-req > .card-header {
+    background: #FBFFE4;
+}
+
+/* ********* PGX ********* */
+.pgx-req {
+    border: 1px solid #0C0E18
+}
+
+.pgx-req > .card-header {
+    background: #434348;
+
+}
+
+/* ********* Cardio-Pulmonary Combined Testing ********* */
+.cardio-pulmonary-combined-testing-req {
+    border: 1px solid var(--Cardio, #C0AF79)
+}
+
+.cardio-pulmonary-combined-testing-req > .card-header {
+    background: #D6CBA8;
+
+}
+
+/* ********* CGX ********* */
+.cgx-req {
+    border: 1px solid #5E9BD7
+}
+
+.cgx-req > .card-header {
+    background: #5E9BD766;
+
+}
+
+/* ********* Thyroid NGS ********* */
+.thyroid-ngs-req {
+    border: 1px solid #1653EF
+}
+
+.thyroid-ngs-req > .card-header {
+    background: #1653EF52;
+}
+
+
+/* ********* Diabetes ********* */
+.diabetes-req {
+    border: 1px solid var(--Diabetes, #D4FF00);
+}
+
+.diabetes-req > .card-header {
+    background: #D4FF0066;
+}
+
+
+/* ********* Eye Disorder********* */
+.eye-disorder-req {
+    border: 1px solid #E8A509
+}
+
+.eye-disorder-req > .card-header {
+    background: #E8A50959;
+    
+}
+
+/* ********* Cancergenomics Testing Requisition ********* */
+.cancergenomics-testing-req {
+    border: 1px solid #F600FF
+}
+
+.cancergenomics-testing-req > .card-header {
+    background: #F600FF4D;
+}
+
+/* ********* Pharmacogenomics Test Requisition ********* */
+.pharmacogenomics-test-req {
+    border: 1px solid #118671
+}
+
+.pharmacogenomics-test-req > .card-header {
+    background: #1186714D;
+}
+
+/* ********* Hereditary Thyroid Disorder Risk Testing Requisition ********* */
+.hereditary-thyroid-disorder-risk-testing-req {
+    border: 1px solid #333399
+}
+
+.hereditary-thyroid-disorder-risk-testing-req > .card-header {
+    background: #3333994D;
+
+
+}
+
+
+/* ********* Hereditary Neurological Disorder Requisition ********* */
+.hereditary-neurological-disorder-req {
+    border: 1px solid #9370DB
+}
+
+.hereditary-neurological-disorder-req > .card-header {
+    background: #9370DB4D;
+
+
+}
+
+/* ********* Primary Immunodeficiency Requisition ********* */
+.primary-immunodeficiency-req {
+    border: 1px solid #839803
+}
+
+.primary-immunodeficiency-req > .card-header {
+    background: #8398034D;
+}
+
+
+/* ********* Eye Disorders Risk ********* */
+.eye-disorders-risk-req {
+    border: 1px solid #FF9933
+}
+
+.eye-disorders-risk-req > .card-header {
+    background: #FF99334D;
+}
+
+/* ********* Hereditary Metabolic Disorders Risk ********* */
+.hereditary-metabolic-disorders-risk-req {
+    border: 1px solid #5914B2
+}
+
+.hereditary-metabolic-disorders-risk-req > .card-header {
+    background: #5914B24D;
+
+}
+
+/* ********* Wound ********* */
+.wound-req {
+    border: 1px solid #7E3F8A
+}
+
+.wound-req > .card-header {
+    background: #7E3F8A66;
+}
+
+/* ********* PAD ********* */
+.pad-req {
+   border: 1px solid #9CC8F0
+}
+
+.pad-req > .card-header {
+   background: #9CC8F04D;
+}
+
+
+/* ********* CardioDx ********* */
+.cardio-dx-req {
+    border: 1px solid #09EF67
+}
+
+.cardio-dx-req > .card-header {
+    background: #09EF674D;
+}
+
+/* ********* Hearing ********* */
+.hearing-req {
+    border: 1px solid #E68DAB
+}
+
+.hearing-req > .card-header {
+    background: #E68DAB4D;
+}
+
+/* ********* COVID-19 ********* */
+.covid-19-req {
+    border: 1px solid #0061A4
+}
+
+.covid-19-req > .card-header {
+    background: #0061A44D;
+}
+
+/* ********* RPP ********* */
+.rpp-req {
+    border: 1px solid #F99175
+}
+
+.rpp-req > .card-header {
+    background: #F991754D;
+}
+
+/* ********* Urine STI  ********* */
+.urine-sti-req {
+    border: 1px solid #4E3490
+}
+
+.urine-sti-req > .card-header {
+    background: #4E34904D;
+}
+
+/* ********* UTI  ********* */
+.uti-req {
+    border: 1px solid #89FF52
+}
+
+.uti-req > .card-header {
+    background: #89FF524D;
+}
+
+/* ********* RPP/COVID-19  ********* */
+.rpp-covid-19-req {
+    border: 1px solid #AD0057
+}
+
+.rpp-covid-19-req > .card-header {
+    background: #AD00574D;
+}
+
+/* ********* INTL  ********* */
+.intl-req {
+    border: 1px solid #790000
+}
+
+.intl-req > .card-header {
+    background: #7900004D;
+
+}
+
+/* ********* EPIL  ********* */
+.epil-req {
+    border: 1px solid #7FAF00
+}
+
+.epil-req > .card-header {
+    background: #7FAF004D;
+
+}
+
+/* ********* LIVR  ********* */
+.livr-req {
+    border: 1px solid #FCF00A
+}
+
+.livr-req > .card-header {
+    background: #FCF00A4D;
+}
+
+
+/* ********* IMMU  ********* */
+.immu-req {
+    border: 1px solid #E25822
+}
+
+.immu-req > .card-header {
+    background: #E258224D;
+}
+
+
+/* ********* RENAL  ********* */
+.renal-req {
+    border: 1px solid #000F00
+}
+
+.renal-req > .card-header {
+    background: #000F004D;
+}
+
+
+/* ********* META  ********* */
+.meta-req {
+    border: 1px solid #C1C4C7
+}
+
+.meta-req > .card-header {
+    background: #C1C4C74D;
+}
+
+/* ********* REPR  ********* */
+.repr-req {
+    border: 1px solid #387BFF
+}
+
+.repr-req > .card-header {
+    background: #387BFF4D;
+
+}
+
+
+/* ********* SKEL  ********* */
+.skel-req {
+    border: 1px solid #F9257D
+}
+
+.skel-req > .card-header {
+    background: #F9257D4D;
+}
+
+/* ********* LUNG  ********* */
+.lung-req {
+    border: 1px solid #7D3F8A
+}
+
+.lung-req > .card-header {
+    background: #7D3F8A4D;
+}
+
+
+/* ********* TSO  ********* */
+.tso-req {
+    border: 1px solid #75BAFB
+}
+
+.tso-req > .card-header {
+    background: #75BAFB4D;
+}
+

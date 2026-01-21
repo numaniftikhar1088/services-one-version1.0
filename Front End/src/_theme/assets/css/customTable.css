@@ -1,0 +1,65 @@
+.css-1e2bxag-MuiDataGrid-root .MuiDataGrid-row:not(.MuiDataGrid-row--dynamicHeight)>.MuiDataGrid-cell, .MuiDataGrid-row:not(.MuiDataGrid-row--dynamicHeight)>.MuiDataGrid-cell{
+    overflow: unset !important;
+}
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked{
+    color: var(--bs-primary) !important;
+}
+.MuiCheckbox-root svg path{
+    color: #EBEDF3 !important;
+  }
+.MuiCheckbox-root.Mui-checked svg path{
+    color: var(--bs-primary) !important;
+  }
+  .MuiTouchRipple-root.css-8je8zh-MuiTouchRipple-root{
+    display: none !important;
+  }
+/* .MuiCheckbox-root.Mui-checked:not(.MuiCheckbox-indeterminate) svg {
+    background-color: '#1890ff' !important;
+    border-color: '#1890ff' !important;
+  } */
+/* .MuiCheckbox-root.Mui-checked .MuiIconButton-label:after {
+    position: 'absolute' !important;
+    display: 'table' !important;
+    border: '2px solid #fff' !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    transform: 'rotate(45deg) translate(-50%,-50%)' !important;
+    opacity: 1 !important;
+    transition: 'all .2s cubic-bezier(.12,.4,.29,1.46) .1s' !important;
+    content: '""' !important;
+    top: '50%' !important;
+    left: '39%' !important;
+    width: 5.71428571 !important;
+    height: 9.14285714 !important;
+  } */
+/* .MuiCheckbox-root.MuiCheckbox-indeterminate .MuiIconButton-label:after {
+    width: 8 !important;
+    height: 8 !important;
+    background-color: '#1890ff' !important;
+    transform: 'none' !important;
+    top: '39%' !important;
+    border: 0 !important;
+  } */
+
+  .css-1e2bxag-MuiDataGrid-root .MuiDataGrid-columnHeaderDraggableContainer {
+    padding: 0.75rem !important;
+}
+.css-1e2bxag-MuiDataGrid-root .MuiDataGrid-columnSeparator--sideRight {
+    display: none !important;
+}
+/* .table>:not(caption)>*>* {
+     padding: 0 !important;
+} */
+.MuiDataGrid-columnHeader, .MuiDataGrid-cell {
+    border-right: 1px solid #EBEDF3 !important;
+  }
+  
+  .css-1e2bxag-MuiDataGrid-root .MuiDataGrid-columnHeaderDraggableContainer:first-child{
+    padding: 0 !important;
+  }
+/* .MuiCheckbox-root svg path {
+    color:  var(--kt-form-check-input-bg-solid) !important;
+}
+.MuiCheckbox-root svg{
+background-color: var(--kt-form-check-input-bg-solid) !important;
+} */

@@ -1,0 +1,115 @@
+.react-date-picker__wrapper {
+    border: none !important;
+    align-items: center;
+}
+
+.react-date-picker__button {
+    padding: 0 2px;
+}
+
+.react-date-picker__button:last-child svg {
+    height: 16px;
+}
+
+.react-date-picker__button svg {
+    stroke: var(--kt-input-border-color);
+
+}
+
+.react-date-picker__inputGroup {
+    gap: 2px;
+    display: flex;
+}
+
+.react-date-picker__button svg:hover,
+.react-date-picker__button:enabled:hover .react-date-picker__button__icon,
+.react-date-picker__button:enabled:focus .react-date-picker__button__icon,
+.react-date-picker__button:focus svg {
+    stroke: var(--kt-primary) !important;
+}
+
+.react-date-picker__inputGroup__input:invalid {
+    background-color: transparent;
+}
+
+.react-date-picker__inputGroup__input:focus-visible {
+    border: none;
+    outline: none;
+}
+
+.react-calendar {
+    border-radius: 0.475rem;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15);
+    border: none;
+    margin-top: 4px;
+    padding: 4px 6px 12px;
+}
+.react-calendar__navigation button {
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+.react-calendar__tile{
+    font-family: 'Poppins';
+}
+.react-calendar__month-view__days__day--weekend{
+    color: var(--kt-danger);
+    font-weight: 600;
+}
+.react-calendar__navigation button:enabled:hover, .react-calendar__navigation button:enabled:focus, .react-calendar__tile--now {
+    background-color: var(--kt-primary-light);
+    border-radius: 4px;
+}
+.react-calendar__tile--active {
+    background: var(--kt-primary);
+    border-radius: 4px;
+}
+
+.react-calendar__tile:enabled:hover, .react-calendar__tile:enabled:focus {
+    background-color: #e6e6e6;
+    border-radius: 4px;
+}
+
+
+/* ******************** Time Picker ********************** */
+/* The naming convention for the hour, minute, second, and am/pm field is
+`-webkit-datetime-edit-{field}-field` */
+
+/* Hour */
+input[type=time]::-webkit-datetime-edit-hour-field {
+    /* background-color: #ffffff; */
+    border-radius: 15%;
+    padding: 5px 4px;
+  }
+  
+  /* Minute */
+  input[type=time]::-webkit-datetime-edit-minute-field {
+    /* background-color: #fff; */
+    border-radius: 15%;
+    padding: 5px 4px;
+  }
+  
+  /* AM/PM */
+  input[type=time]::-webkit-datetime-edit-ampm-field {
+    /* background-color: #fff; */
+    border-radius: 15%;
+    /* color: #fff; */
+    padding: 5px 4px;
+    font-weight: 600;
+  }
+  
+  /* 'X' button for resetting/clearing time */
+  input[type=time]::-webkit-clear-button {
+    display: none;
+  }
+  
+  /* Up/Down arrows for incrementing/decrementing the value */
+  input[type=time]::-webkit-inner-spin-button {
+      display: none;
+    }
+    input[type="time"]::-webkit-calendar-picker-indicator, nput[type="time"]::-webkit-calendar-picker-indicator::after {
+        color: var(--kt-input-border-color);
+    }
+    input[type="time"]::-webkit-datetime-edit-text {
+        color: green; /* Change text color */
+    }

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" id="dynamic-favicon" href="loading.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="TrueMed LIS is an advanced medical laboratory automation platform designed to streamline phlebotomy, pharmacy, toxicology, blood and infectious disease testing, CGX/PGX, custom workflows, patient and facility management, POL and reference labs, insurance processing, instrument integrations, and more. Enhance efficiency and optimize operations with our comprehensive, all-in-one solution."
+    />
+    <!-- <link rel="icon" rel="apple-touch-icon" href="loading.png" /> -->
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+
+    <!-- Cache Control Meta Tags -->
+    <meta
+      http-equiv="Cache-Control"
+      content="no-cache, no-store, must-revalidate"
+    />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <title>Loading...</title>
+    <!-- <script
+      src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCE9HRVahAEDKAkaid6FYBq7fqsNbx-Dzk&callback=initMap"
+      async
+      defer
+    ></script> -->
+    <script src="%PUBLIC_URL%/env/env-config.js?d=20210529"></script>
+    <script src="%PUBLIC_URL%/appConfig.js?d=20210529"></script>
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDOl7hleB0TCW_-aSewOYWYo_IiOWvE2XU&callback=initMap"
+    ></script>
+    <script src="%PUBLIC_URL%/dymo.connect.framework.js"></script>
+    <!-- <script>
+      const loadConfig = async () => {
+        try {
+          const response = await fetch("/config.json");
+
+          if (!response.ok) {
+            throw new Error("Failed to load config");
+          }
+
+          const config = await response.json();
+
+          while (!window.env) {
+            window.env = config;
+            await new Promise((resolve) => setTimeout(resolve, 300));
+          }
+
+          console.log("Configuration loaded successfully:", window.env);
+        } catch (error) {
+          console.error("Error loading config:", error);
+        }
+      };
+
+      loadConfig();
+    </script> -->
+  </head>
+  <body
+    id="kt_app_body"
+    data-kt-app-layout="light-sidebar"
+    data-kt-app-sidebar-enabled="true"
+    data-kt-app-sidebar-fixed="true"
+    data-kt-app-sidebar-hoverable="true"
+    data-kt-app-sidebar-push-header="true"
+    data-kt-app-sidebar-push-toolbar="true"
+    data-kt-app-sidebar-push-footer="true"
+    data-kt-app-toolbar-enabled="true"
+    class="app-default"
+    cz-shortcut-listen="true"
+    data-kt-app-sidebar-minimize="on"
+  >
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <div id="root-portal"></div>
+    <div id="requsition-portal"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker
+            .register("./serviceWorker.js")
+            .then((reg) => {
+              console.log("Worker Registered");
+            })
+            .catch((err) => {
+              console.log("Error in service worker registration.");
+            });
+        });
+      }
+    </script>
+  </body>
+</html>

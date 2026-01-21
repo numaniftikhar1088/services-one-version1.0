@@ -1,0 +1,59 @@
+trigger:
+- QA_Release_Branch
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+# 1) Install Node.js
+- task: NodeTool@0
+  displayName: 'Install Node.js'
+  inputs:
+    versionSpec: '20.x'  # Adjust version as needed
+
+# 2) Install dependencies, run lint (optional), run tests (optional), and build
+- script: |
+    echo "Setting Node.js memory limit..."
+    export NODE_OPTIONS="--max-old-space-size=4096"
+
+    echo "Installing dependencies with npm ci..."
+    npm ci --legacy-peer-deps
+
+    echo "Updating Browserslist database..."
+    npx update-browserslist-db@latest || echo "Browserslist update failed, continuing..."
+
+    echo "Running lint..."
+    # npm run lint
+
+    echo "Running tests..."
+    # npm test -- --coverage
+
+    echo "Building application..."
+    npm run build
+  displayName: 'Install, Lint, Test, and Build'
+
+# 3) Archive the build folder
+- task: ArchiveFiles@2
+  displayName: 'Archive build artifacts'
+  inputs:
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/build'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/build.zip'
+    replaceExistingArchive: true
+
+# 4) Copy build artifacts to the staging directory
+- task: CopyFiles@2
+  displayName: 'Copy files to staging directory'
+  inputs:
+    sourceFolder: '$(System.DefaultWorkingDirectory)/build'
+    contents: '**'
+    targetFolder: '$(Build.ArtifactStagingDirectory)'
+
+# 5) Publish build artifacts to Azure DevOps
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish build artifacts'
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
