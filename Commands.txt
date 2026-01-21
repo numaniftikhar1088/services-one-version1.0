@@ -1,0 +1,14 @@
+=========Application Scaffold Command=========
+Scaffold-DbContext 'Data Source=tmitprojectonescus.database.windows.net;Initial Catalog=TMIT-DemoLab-DB;Integrated Security=false;user=tmituser;password=WaterMark123$$;MultipleActiveResultSets=True'Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/Database_Sets/Application -ContextDir Databases -Context ApplicationDbContext -f
+=========Application Scaffold Command=========
+
+=========Master Scaffold Command=========
+Scaffold-DbContext 'Data Source=tmitprojectonescus.database.windows.net;Initial Catalog=TMIT-MasterPortal-DB;Integrated Security=false;user=tmituser;password=WaterMark123$$;MultipleActiveResultSets=True'Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/Database_Sets/Master -ContextDir Databases -Context MasterDbContext -f
+=========Application Scaffold Command=========
+
+NEW COMMAND
+=========Application Scaffold Command=========
+Scaffold-DbContext 'Data Source=tmitprojectonescus.database.windows.net;Initial Catalog=TMIT-DemoLab-DB;Integrated Security=false;user=tmituser;password=WaterMark123$$;MultipleActiveResultSets=True' Microsoft.EntityFrameworkCore.SqlServer -OutputDir ../TrueMed.Domain/Models/Database_Sets/Application -ContextDir TenantDbContext -Context ApplicationDbContext -namespace "TrueMed.Domain.Models.Database_Sets.Application" -contextnamespace "TrueMed.Business.TenantDbContext"-f
+=========Application Scaffold Command=========
+
+

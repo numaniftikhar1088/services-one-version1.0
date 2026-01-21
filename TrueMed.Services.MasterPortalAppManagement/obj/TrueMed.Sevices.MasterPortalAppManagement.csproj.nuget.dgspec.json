@@ -1,0 +1,1076 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TrueMedProjectOne\\TrueMed.Services.MasterPortalAppManagement\\TrueMed.Sevices.MasterPortalAppManagement.csproj": {}
+  },
+  "projects": {
+    "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj",
+        "projectName": "TrueMed.Business",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Azure.Messaging.EventGrid": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.18.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Azure.AppConfiguration.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.FeatureManagement": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.FeatureManagement.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.96, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.CompendiumManagement.Domain\\TrueMed.CompendiumManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.CompendiumManagement.Domain\\TrueMed.CompendiumManagement.Domain.csproj",
+        "projectName": "TrueMed.CompendiumManagement.Domain",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.CompendiumManagement.Domain\\TrueMed.CompendiumManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.CompendiumManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj",
+        "projectName": "TrueMed.Domain",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.14.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[4.45.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.96, )"
+            },
+            "System.Linq.Dynamic": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\TrueMed.FacilityManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\TrueMed.FacilityManagement.Domain.csproj",
+        "projectName": "TrueMed.FacilityManagement.Domain",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\TrueMed.FacilityManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.InsuranceManagement.Domains\\TrueMed.InsuranceManagement.Domains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.InsuranceManagement.Domains\\TrueMed.InsuranceManagement.Domains.csproj",
+        "projectName": "TrueMed.InsuranceManagement.Domains",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.InsuranceManagement.Domains\\TrueMed.InsuranceManagement.Domains.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.InsuranceManagement.Domains\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj",
+        "projectName": "TrueMed.MasterPortalAppManagement.Domain",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.MasterPortalServices.BusinessLayer\\TrueMed.MasterPortalServices.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalServices.BusinessLayer\\TrueMed.MasterPortalServices.BusinessLayer.csproj",
+        "projectName": "TrueMed.MasterPortalServices.BusinessLayer",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalServices.BusinessLayer\\TrueMed.MasterPortalServices.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalServices.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Business\\TrueMed.UserManagement.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Business\\TrueMed.UserManagement.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Validator\\TrueMed.Validator.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Validator\\TrueMed.Validator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.PatientManagement.Domain\\TrueMed.PatientManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.PatientManagement.Domain\\TrueMed.PatientManagement.Domain.csproj",
+        "projectName": "TrueMed.PatientManagement.Domain",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.PatientManagement.Domain\\TrueMed.PatientManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.PatientManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.Services.MasterPortalAppManagement\\TrueMed.Sevices.MasterPortalAppManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.Services.MasterPortalAppManagement\\TrueMed.Sevices.MasterPortalAppManagement.csproj",
+        "projectName": "TrueMed.Sevices.MasterPortalAppManagement",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Services.MasterPortalAppManagement\\TrueMed.Sevices.MasterPortalAppManagement.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.Services.MasterPortalAppManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.MasterPortalServices.BusinessLayer\\TrueMed.MasterPortalServices.BusinessLayer.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalServices.BusinessLayer\\TrueMed.MasterPortalServices.BusinessLayer.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Validator\\TrueMed.Validator.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Validator\\TrueMed.Validator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Business\\TrueMed.UserManagement.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Business\\TrueMed.UserManagement.Business.csproj",
+        "projectName": "TrueMed.UserManagement.Business",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Business\\TrueMed.UserManagement.Business.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\TrueMed.FacilityManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\TrueMed.FacilityManagement.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Domain\\TrueMed.UserManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Domain\\TrueMed.UserManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Domain\\TrueMed.UserManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Domain\\TrueMed.UserManagement.Domain.csproj",
+        "projectName": "TrueMed.UserManagement.Domain",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Domain\\TrueMed.UserManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.UserManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Business\\TrueMed.Business.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Domain\\TrueMed.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\TrueMedProjectOne\\TrueMed.Validator\\TrueMed.Validator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TrueMedProjectOne\\TrueMed.Validator\\TrueMed.Validator.csproj",
+        "projectName": "TrueMed.Validator",
+        "projectPath": "E:\\TrueMedProjectOne\\TrueMed.Validator\\TrueMed.Validator.csproj",
+        "packagesPath": "C:\\Users\\Tanveer Ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\TrueMedProjectOne\\TrueMed.Validator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanveer Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\TrueMedProjectOne\\TrueMed.CompendiumManagement.Domain\\TrueMed.CompendiumManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.CompendiumManagement.Domain\\TrueMed.CompendiumManagement.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\TrueMed.FacilityManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.FacilityManagement.Domain\\TrueMed.FacilityManagement.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.InsuranceManagement.Domains\\TrueMed.InsuranceManagement.Domains.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.InsuranceManagement.Domains\\TrueMed.InsuranceManagement.Domains.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.MasterPortalAppManagement.Domain\\TrueMed.MasterPortalAppManagement.Domain.csproj"
+              },
+              "E:\\TrueMedProjectOne\\TrueMed.PatientManagement.Domain\\TrueMed.PatientManagement.Domain.csproj": {
+                "projectPath": "E:\\TrueMedProjectOne\\TrueMed.PatientManagement.Domain\\TrueMed.PatientManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

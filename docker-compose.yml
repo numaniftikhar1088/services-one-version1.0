@@ -1,0 +1,102 @@
+version: '3.4'
+services:
+  #truemed.apigateway:
+  #  image: truemedcontainerregistry.azurecr.io/truemedapigateway
+  #  environment:
+  #     AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+  #     AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+  #     AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+  #  build:
+  #    context: .
+  #    dockerfile: TrueMed.ApiGateway/Dockerfile
+
+  truemed.sevices.masterportalappmanagement:
+    image: truemedcontainerregistry.azurecr.io/truemedsevicesmasterportalappmanagement
+    environment:
+       AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+       AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+       AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+    build:
+      context: .
+      dockerfile: TrueMed.Services.MasterPortalAppManagement/Dockerfile
+        
+  #truemed.services.facilitymanagement:
+  #  image: truemedcontainerregistry.azurecr.io/truemedservicesfacilitymanagement
+  #  environment:
+  #     AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+  #     AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+  #     AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+  #  build:
+  #    context: .
+  #    dockerfile: TrueMed.Services.FacilityManagement/Dockerfile
+
+  #truemed.services.usermanagement:
+  #  image: truemedcontainerregistry.azurecr.io/truemedservicesusermanagement
+  #  environment:
+  #     AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+  #     AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+  #     AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+  #  build:
+  #    context: .
+  #    dockerfile: TrueMed.Services.UserManagement/Dockerfile
+
+  truemed.service.insurancemanagement:
+    image: truemedcontainerregistry.azurecr.io/truemedserviceinsurancemanagement
+    environment:
+       AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+       AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+       AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+    build:
+      context: .
+      dockerfile: TrueMed.Service.InsuranceManagement/Dockerfile
+
+  #truemed.services.requisitionmanagement:
+  #  image: truemedcontainerregistry.azurecr.io/truemedservicesrequisitionmanagement
+  #  environment:
+  #     AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+  #     AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+  #     AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+  #  build:
+  #    context: .
+  #    dockerfile: TrueMed.Services.RequisitionManagement/Dockerfile
+
+  #truemed.services.patientmanagement:
+  #  image: truemedcontainerregistry.azurecr.io/truemedservicespatientmanagement
+  #  environment:
+  #     AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+  #     AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+  #     AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+  #  build:
+  #    context: .
+  #    dockerfile: TrueMed.Services.PatientManagement/Dockerfile
+
+  truemed.services.compendiummanagement:
+    image: truemedcontainerregistry.azurecr.io/truemedservicescompendiummanagement
+    environment:
+       AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+       AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+       AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+    build:
+      context: .
+      dockerfile: TrueMed.Services.CompendiumManagement/Dockerfile
+
+  #truemed.servicess.lismanagement:
+  #  image: truemedcontainerregistry.azurecr.io/truemedservicesslismanagement
+  #  environment:
+  #     AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+  #     AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+  #     AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+  #  build:
+  #    context: .
+  #    dockerfile: TrueMed.Servicess.LISManagement/Dockerfile
+
+  #truemed.service.reportingserver:
+  #  image: truemedcontainerregistry.azurecr.io/truemedservicereportingserver
+  #  environment:
+  #     AZURE_CLIENT_ID: 3a0d8d79-5788-4b41-9904-edbd28e16c2c
+  #     AZURE_CLIENT_SECRET: n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC
+  #     AZURE_TENANT_ID: 6e858cb2-c70c-4db3-91c8-a96407738c2f
+  #  build:
+  #    context: .
+  #    dockerfile: TrueMed.Service.ReportingServer/Dockerfile
+

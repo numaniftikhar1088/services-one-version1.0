@@ -1,0 +1,44 @@
+{
+  "profiles": {
+    "TrueMed.Sevices.MasterPortalAppManagement": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AZURE_CLIENT_ID": "3a0d8d79-5788-4b41-9904-edbd28e16c2c",
+        "AZURE_CLIENT_SECRET": "n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC",
+        "AZURE_TENANT_ID": "6e858cb2-c70c-4db3-91c8-a96407738c2f"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7279;http://localhost:5279"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AZURE_CLIENT_ID": "3a0d8d79-5788-4b41-9904-edbd28e16c2c",
+        "AZURE_CLIENT_SECRET": "n1_8Q~V0A4ekRqKd3sSzwAY2wFGCOQxp5Nls6aiC",
+        "AZURE_TENANT_ID": "6e858cb2-c70c-4db3-91c8-a96407738c2f"
+      }
+    },
+    "Docker (1)": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:61094",
+      "sslPort": 44392
+    }
+  }
+}

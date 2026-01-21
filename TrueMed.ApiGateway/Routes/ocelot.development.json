@@ -1,0 +1,103 @@
+{
+  "Routes": [
+
+    {
+      "UpstreamPathTemplate": "/api/Account/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Account/{url}",
+      "SwaggerKey": "usermanagment"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Account_V2/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Account_V2/{url}",
+      "SwaggerKey": "usermanagment"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Blob/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "usermanagment",
+      "DownstreamPathTemplate": "/api/Blob/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Master/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "masterportalmanagment",
+      "DownstreamPathTemplate": "/api/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/Token",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete" ],
+      "DownStreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "DownstreamPathTemplate": "/Token",
+      "SwaggerKey": "usermanagment"
+    }
+
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "masterportalmanagment",
+      "Config": [
+        {
+          "Name": "Lab Management APIs",
+          "Version": "v1",
+          "Url": "truemed.sevices.masterportalappmanagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "usermanagment",
+      "Config": [
+        {
+          "Name": "User Management APIs",
+          "Version": "v1",
+          "Url": "truemed.services.usermanagement/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:55985"
+  }
+
+}
+ 

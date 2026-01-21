@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[tblLabControlPortalTypes] (
+    [ID]           INT            IDENTITY (1, 1) NOT NULL,
+    [PortalTypeID] INT            NOT NULL,
+    [ControlID]    INT            NOT NULL,
+    [CreatedBy]    NVARCHAR (MAX) NOT NULL,
+    [CreatedDate]  DATETIME2 (7)  NOT NULL,
+    [UpdatedBy]    NVARCHAR (MAX) NULL,
+    [UpdatedDate]  DATETIME2 (7)  NULL,
+    CONSTRAINT [PK_tblLabControlPortalTypes] PRIMARY KEY CLUSTERED ([ID] ASC),
+    CONSTRAINT [FK_tblLabControlPortalTypes_tblControls] FOREIGN KEY ([ControlID]) REFERENCES [dbo].[tblControls] ([ID])
+);
+

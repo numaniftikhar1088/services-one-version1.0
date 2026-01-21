@@ -1,0 +1,7 @@
+﻿Create PROC SP_DELETE_LAB_BY_ID 
+@labId int
+AS
+BEGIN
+	UPDATE tblLabs SET IsDELETED = 1 WHERE LabId = @labId
+	SELECT 1 as DELETED
+END

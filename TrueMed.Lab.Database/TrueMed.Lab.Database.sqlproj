@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>TrueMed.Lab.Database</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{de721b34-f519-40ba-894d-e01e889e7603}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>TrueMed.Lab.Database</RootNamespace>
+    <AssemblyName>TrueMed.Lab.Database</AssemblyName>
+    <ModelCollation>1033,CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <DefaultCollation>SQL_Latin1_General_CP1_CI_AS</DefaultCollation>
+    <DefaultFilegroup>PRIMARY</DefaultFilegroup>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Condition="'$(SQLDBExtensionsRefPath)' != ''" Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="dbo\Functions\" />
+    <Folder Include="dbo\Stored Procedures\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\tblModuleSections.sql" />
+    <Build Include="dbo\Tables\tblInsuranceAssignment.sql" />
+    <Build Include="dbo\Tables\tblSheetTemplates.sql" />
+    <Build Include="dbo\Tables\tblFacilityCheckBoxOptions.sql" />
+    <Build Include="dbo\Tables\tblRequisitionInitialWorkflowStatus.sql" />
+    <Build Include="dbo\Tables\tblRole.sql" />
+    <Build Include="dbo\Tables\tblSpecimenType.sql" />
+    <Build Include="dbo\Tables\tblCompendiumGroups.sql" />
+    <Build Include="dbo\Tables\tblRequisitionOrders.sql" />
+    <Build Include="dbo\Tables\tblModule.sql" />
+    <Build Include="dbo\Tables\tblLabControlOptionDependency.sql" />
+    <Build Include="dbo\Tables\tblRequisitionStatus.sql" />
+    <Build Include="dbo\Tables\tblRoleClaims.sql" />
+    <Build Include="dbo\Tables\tblUserClaims.sql" />
+    <Build Include="dbo\Tables\tblTempCompendiumPanelTestUpload.sql" />
+    <Build Include="dbo\Tables\tblCompendiumGroupPanelsAssignment.sql" />
+    <Build Include="dbo\Tables\tblRequisitionAccessionsNoMore.sql" />
+    <Build Include="dbo\Tables\tblTempReportingRulesUpload.sql" />
+    <Build Include="dbo\Tables\tblUserRole.sql" />
+    <Build Include="dbo\Tables\tblViewRequisitionColumns.sql" />
+    <Build Include="dbo\Tables\tblCompendiumPanels.sql" />
+    <Build Include="dbo\Tables\tblLabFacInsAssignment.sql" />
+    <Build Include="dbo\Tables\tblRequisitionPanels.sql" />
+    <Build Include="dbo\Tables\tblRequisitionAddInfo.sql" />
+    <Build Include="dbo\Tables\tblPanelType.sql" />
+    <Build Include="dbo\Tables\tblFacilityFiles.sql" />
+    <Build Include="dbo\Tables\tblRequisitionPatientInsurance.sql" />
+    <Build Include="dbo\Tables\tblPages.sql" />
+    <Build Include="dbo\Tables\tblResultFileColumnSetup.sql" />
+    <Build Include="dbo\Tables\tblUserViewRequisition.sql" />
+    <Build Include="dbo\Tables\tblFacilityRefLabAssignment.sql" />
+    <Build Include="dbo\Tables\tblIDLISRawResultData.sql" />
+    <Build Include="dbo\Tables\tblLabConfiguration.sql" />
+    <Build Include="dbo\Tables\tblLabPageSection.sql" />
+    <Build Include="dbo\Tables\tblMarketPlaceIntegrationConfiguration.sql" />
+    <Build Include="dbo\Tables\tblRequisitionICD10Codes.sql" />
+    <Build Include="dbo\Tables\tblLabSectionControls.sql" />
+    <Build Include="dbo\Tables\tblWorkFlowStatuses.sql" />
+    <Build Include="dbo\Tables\tblLabAssignment.sql" />
+    <Build Include="dbo\Tables\tblLabAssignmentGroups.sql" />
+    <Build Include="dbo\Tables\tbltempark.sql" />
+    <Build Include="dbo\Tables\tblFacilityUser.sql" />
+    <Build Include="dbo\Tables\tblLabControlPortalTypes.sql" />
+    <Build Include="dbo\Tables\tblRequisitionMedications.sql" />
+    <Build Include="dbo\Tables\tblUploadFileDetail.sql" />
+    <Build Include="dbo\Tables\ToxConfirmationToxCompendium.sql" />
+    <Build Include="dbo\Tables\ToxInHouseToxCompendium.sql" />
+    <Build Include="dbo\Tables\ToxPanel.sql" />
+    <Build Include="dbo\Tables\ToxPanelTest.sql" />
+    <Build Include="dbo\Tables\tblCompendiumReportingRules.sql" />
+    <Build Include="dbo\Tables\tblIDLISResultInformation.sql" />
+    <Build Include="dbo\Tables\tblLISStatus.sql" />
+    <Build Include="dbo\Tables\tblControls.sql" />
+    <Build Include="dbo\Tables\tblPatientBasicInfo.sql" />
+    <Build Include="dbo\Tables\tblUserfavouriteMenu.sql" />
+    <Build Include="dbo\Tables\tblLabSectionsControls.sql" />
+    <Build Include="dbo\Tables\tblDepartment.sql" />
+    <Build Include="dbo\Tables\tblCompenduimTestReportingRules.sql" />
+    <Build Include="dbo\Tables\tblSections.sql" />
+    <Build Include="dbo\Tables\tblPatientAddInfo.sql" />
+    <Build Include="dbo\Tables\tblCompendiumPanelTestAssignments.sql" />
+    <Build Include="dbo\Tables\tblSectionControls.sql" />
+    <Build Include="dbo\Tables\tblLabRequisitionTypeWorkflowStatus.sql" />
+    <Build Include="dbo\Tables\tblTestType.sql" />
+    <Build Include="dbo\Tables\tblCompendiumTestCalculations.sql" />
+    <Build Include="dbo\Tables\tblRequisitionFile.sql" />
+    <Build Include="dbo\Tables\tblFacility.sql" />
+    <Build Include="dbo\Tables\tblCompendiumDependencyAndReflexTests.sql" />
+    <Build Include="dbo\Tables\tblCompendiumTests.sql" />
+    <Build Include="dbo\Tables\tblPatientInsurance.sql" />
+    <Build Include="dbo\Tables\tblModuleDeniedControls.sql" />
+    <Build Include="dbo\Tables\tblFiles.sql" />
+    <Build Include="dbo\Tables\tblFacilityOption.sql" />
+    <Build Include="dbo\Tables\tblCompendiumTestConfigurations.sql" />
+    <Build Include="dbo\Tables\tblCompendiumPanelDepartmentAssignments.sql" />
+    <Build Include="dbo\Tables\tblDynamicForms.sql" />
+    <Build Include="dbo\Tables\tblLabControlOptions.sql" />
+    <Build Include="dbo\Tables\tblCompendiumPanelAssignments.sql" />
+    <Build Include="dbo\Tables\tblRequisitionMaster.sql" />
+    <Build Include="dbo\Tables\tblCompendiumPanelType.sql" />
+    <Build Include="dbo\Tables\tblPrinterSetup.sql" />
+    <Build Include="dbo\Tables\tblIntegrationKeyConfigurations.sql" />
+    <Build Include="dbo\Tables\tblLogs.sql" />
+    <Build Include="dbo\Tables\tblPatientLoginUser.sql" />
+    <Build Include="dbo\Tables\tblRequestToken.sql" />
+    <Build Include="dbo\Tables\tblDrugAllergiesAssignment.sql" />
+    <Build Include="dbo\Tables\tblRequisitions.sql" />
+    <Build Include="dbo\Tables\tblShipping.sql" />
+    <Build Include="dbo\Tables\tblCompendiumBloodTestRangesImport.sql" />
+    <Build Include="dbo\Tables\tblRequisitionMedicalNecessity.sql" />
+    <Build Include="dbo\Tables\tblICD10Assignment.sql" />
+    <Build Include="dbo\Tables\tblLabRequisitionType.sql" />
+    <Build Include="dbo\Tables\tblModuleDeniedSections.sql" />
+    <Build Include="dbo\Tables\tblRequisitionDrugAllergyCodes.sql" />
+    <Build Include="dbo\Tables\tblUserActivity.sql" />
+    <Build Include="dbo\Tables\tblRequisitionTests.sql" />
+    <Build Include="dbo\Tables\tblPatientAddrHistory.sql" />
+    <Build Include="dbo\Tables\tblLISResultSetting.sql" />
+    <Build Include="dbo\Tables\tblLabs.sql" />
+    <Build Include="dbo\Tables\tblRequisitionSpecimensInfo.sql" />
+    <Build Include="dbo\Tables\tblPanelTestSpecimenTypeAssignment.sql" />
+    <Build Include="dbo\Functions\Fn_GenerateTmitTestCodeByTestId.sql" />
+    <Build Include="dbo\Functions\Fn_GenerateTmitTestCodeByPanelId.sql" />
+    <Build Include="dbo\Stored Procedures\sp_FacilityDataForReport.sql" />
+    <Build Include="dbo\Stored Procedures\sp_AutoGenerateAccession.sql" />
+    <Build Include="dbo\Stored Procedures\SP_DELETE_FACILITY_BY_ID.sql" />
+    <Build Include="dbo\Stored Procedures\DropRelationshipTable.sql" />
+    <Build Include="dbo\Stored Procedures\sp_GetCompendiumbyFacilityIDbyReqID.sql" />
+    <Build Include="dbo\Stored Procedures\spGetCompendiumPanelsAndProfile.sql" />
+    <Build Include="dbo\Stored Procedures\SP_DELETE_PATIENT_BY_ID.sql" />
+    <Build Include="dbo\Stored Procedures\spGetCompendiumPanelAndProfileTests.sql" />
+    <Build Include="dbo\Stored Procedures\truncate_non_empty_table.sql" />
+    <Build Include="dbo\Stored Procedures\sp_GetCompendiumbyLabAssignmentId.sql" />
+    <Build Include="dbo\Stored Procedures\sp_ImportBloodCompendium.sql" />
+  </ItemGroup>
+</Project>

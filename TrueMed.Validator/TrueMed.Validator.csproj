@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TrueMed.CompendiumManagement.Domain\TrueMed.CompendiumManagement.Domain.csproj" />
+    <ProjectReference Include="..\TrueMed.FacilityManagement.Domain\TrueMed.FacilityManagement.Domain.csproj" />
+    <ProjectReference Include="..\TrueMed.InsuranceManagement.Domains\TrueMed.InsuranceManagement.Domains.csproj" />
+    <ProjectReference Include="..\TrueMed.MasterPortalAppManagement.Domain\TrueMed.MasterPortalAppManagement.Domain.csproj" />
+    <ProjectReference Include="..\TrueMed.PatientManagement.Domain\TrueMed.PatientManagement.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="FacilityManagement\" />
+  </ItemGroup>
+
+</Project>

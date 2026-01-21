@@ -1,0 +1,27 @@
+﻿CREATE TABLE [dbo].[ToxPanel] (
+    [Id]                  INT            NOT NULL,
+    [PanelGroupCode]      VARCHAR (MAX)  NULL,
+    [PanelGroupId]        INT            NULL,
+    [PanelName]           VARCHAR (MAX)  NULL,
+    [PanelDescription]    VARCHAR (MAX)  NULL,
+    [PanelAbbrevation]    VARCHAR (MAX)  NULL,
+    [LabReferenceCode]    VARCHAR (MAX)  NULL,
+    [RequistionType]      VARCHAR (500)  NULL,
+    [PanelType]           VARCHAR (500)  NULL,
+    [isMasterPanel]       BIT            NULL,
+    [IsActive]            BIT            NULL,
+    [LabId]               INT            NULL,
+    [PortalId]            INT            NULL,
+    [CreatedBy]           VARCHAR (MAX)  NULL,
+    [CreatedDate]         DATETIME       NULL,
+    [UpdatedBy]           VARCHAR (MAX)  NULL,
+    [UpdatedDate]         DATETIME       NULL,
+    [CPTCodes]            VARCHAR (50)   NULL,
+    [OrderId]             INT            NULL,
+    [EdenPanelCode]       VARCHAR (250)  NULL,
+    [PerformingLab]       VARCHAR (MAX)  NULL,
+    [ReqID]               VARCHAR (MAX)  NULL,
+    [CompendiumPanelCode] VARCHAR (MAX)  NULL,
+    [DrugClass]           NVARCHAR (MAX) NULL
+);
+

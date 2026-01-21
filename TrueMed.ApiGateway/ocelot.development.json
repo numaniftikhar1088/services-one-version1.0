@@ -1,0 +1,871 @@
+{
+  "Routes": [
+
+    {
+      "UpstreamPathTemplate": "/api/Account/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Account/{url}",
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Lab_UserRolesAndRights/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Lab_UserRolesAndRights/{url}",
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Account_V2/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Account_V2/{url}",
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Blob/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "usermanagement",
+      "DownstreamPathTemplate": "/api/Blob/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Template/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "usermanagement",
+      "DownstreamPathTemplate": "/api/Template/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LabManagement/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "masterportalmanagement",
+      "DownstreamPathTemplate": "/api/LabManagement/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Lab_ReferenceLabManagement/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "masterportalmanagement",
+      "DownstreamPathTemplate": "/api/Lab_ReferenceLabManagement/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/RequisitionType/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "masterportalmanagement",
+      "DownstreamPathTemplate": "/api/RequisitionType/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/DrugAllergy/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "masterportalmanagement",
+      "DownstreamPathTemplate": "/api/DrugAllergy/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Master/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "masterportalmanagement",
+      "DownstreamPathTemplate": "/api/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PanelSetup/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "masterportalmanagement",
+      "DownstreamPathTemplate": "/api/PanelSetup/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/TestsSetup/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.sevices.masterportalappmanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "masterportalmanagement",
+      "DownstreamPathTemplate": "/api/TestsSetup/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Department/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/Department/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PatientManagement/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.patientmanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "patientmanagement",
+      "DownstreamPathTemplate": "/api/PatientManagement/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PatientLoginUser/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.patientmanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "patientmanagement",
+      "DownstreamPathTemplate": "/api/PatientLoginUser/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PatientInsurances/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.patientmanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "patientmanagement",
+      "DownstreamPathTemplate": "/api/PatientInsurances/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/Token",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.usermanagement"
+        }
+      ],
+      "DownstreamPathTemplate": "/Token",
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Facility/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.facilitymanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/Facility/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LabAssignment/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.facilitymanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/LabAssignment/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/AssignRefLabAndGroup/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.facilitymanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/AssignRefLabAndGroup/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LabFacInsTypeAssignment/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.facilitymanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/LabFacInsTypeAssignment/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/FacilityOptions/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.facilitymanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/FacilityOptions/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/SingleRequistion/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/SingleRequistion/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Requisition/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/Requisition/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PendingRequisition/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/PendingRequisition/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/DrugAllergiesAssignment/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/DrugAllergiesAssignment/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LoadReqSection/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/LoadReqSection/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ViewRequisition/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/ViewRequisition/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PrinterSetup/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/PrinterSetup/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/BulkCheckIn/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.requisitionmanagement"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/BulkCheckIn/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/InsuranceAssignment/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.service.insurancemanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/InsuranceAssignment/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/InsuranceProvider/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.service.insurancemanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/InsuranceProvider/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/InsuranceType/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.service.insurancemanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/InsuranceType/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ICD10Code/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.service.insurancemanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/ICD10Code/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ICD10CodeAssignment/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.service.insurancemanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/ICD10CodeAssignment/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/OrderInsurance/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.service.insurancemanagement"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/OrderInsurance/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/TestType/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/TestType/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/BloodCompendiumReflexTest/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/BloodCompendiumReflexTest/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/TestSetup/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/TestSetup/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/CompendiumPanelSetup/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/CompendiumGroup/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumDataAssayData/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumDataAssayData/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumPanelMapping/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumPanelMapping/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/SpecimenType/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/SpecimenType/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/SpecimenTypeAssignment/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/SpecimenTypeAssignment/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumReportingRules/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumReportingRules/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumControlReportingRule/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "truemed.services.compendiummanagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumControlReportingRule/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ResultFile/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Servicess.LISManagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/ResultFile/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDResultData/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Servicess.LISManagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/IDResultData/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/InfectiousDiseasesResultUpload/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Servicess.LISManagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/InfectiousDiseasesResultUpload/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDLISPreConfiguration/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Servicess.LISManagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/IDLISPreConfiguration/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDBatchQC/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Servicess.LISManagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/IDBatchQC/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/QCBatchSetup/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Servicess.LISManagement"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/QCBatchSetup/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDLISReport/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Service.ReportingServer"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "reportingserver",
+      "DownstreamPathTemplate": "/api/IDLISReport/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ReqOrderView/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Service.ReportingServer"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "reportingserver",
+      "DownstreamPathTemplate": "/api/ReqOrderView/{url}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/BatchQCReport/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "TrueMed.Service.ReportingServer"
+        }
+      ],
+      "Priority": 1,
+      "SwaggerKey": "reportingserver",
+      "DownstreamPathTemplate": "/api/BatchQCReport/{url}"
+    }
+
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "masterportalmanagement",
+      "Config": [
+        {
+          "Name": "Master Portal Management",
+          "Version": "v1",
+          "Url": "truemed.sevices.masterportalappmanagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "patientmanagement",
+      "Config": [
+        {
+          "Name": "Patient Management",
+          "Version": "v1",
+          "Url": "TrueMed.Services.PatientManagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "usermanagement",
+      "Config": [
+        {
+          "Name": "User Management",
+          "Version": "v1",
+          "Url": "truemed.services.usermanagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "facilitymanagement",
+      "Config": [
+        {
+          "Name": "Facility Management",
+          "Version": "v1",
+          "Url": "TrueMed.Services.FacilityManagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "insurancemanagement",
+      "Config": [
+        {
+          "Name": "Insurance Management",
+          "Version": "v1",
+          "Url": "TrueMed.Service.InsuranceManagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "compendiummanagement",
+      "Config": [
+        {
+          "Name": "Compendium Management",
+          "Version": "v1",
+          "Url": "TrueMed.Services.CompendiumManagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "lismanagement",
+      "Config": [
+        {
+          "Name": "LIS Management",
+          "Version": "v1",
+          "Url": "TrueMed.Servicess.LISManagement/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "reportingserver",
+      "Config": [
+        {
+          "Name": "Reporting Server",
+          "Version": "v1",
+          "Url": "TrueMed.Service.ReportingServer/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:55985"
+  }
+
+}
+ 

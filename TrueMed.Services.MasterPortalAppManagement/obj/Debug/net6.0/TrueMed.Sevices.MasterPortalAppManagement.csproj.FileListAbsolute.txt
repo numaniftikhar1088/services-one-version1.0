@@ -1,0 +1,871 @@
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.AssemblyReference.cache
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfoInputs.cache
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfo.cs
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CoreCompileInputs.cache
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.json
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.exe
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.deps.json
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.runtimeconfig.json
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Common.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Dapper.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IO.Hashing.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Business.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Business.pdb
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.pdb
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.pdb
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.pdb
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\scopedcss\bundle\TrueMed.Sevices.MasterPortalAppManagement.styles.css
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CopyComplete
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\refint\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.genruntimeconfig.cache
+E:\New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\ref\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.json
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.exe
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.deps.json
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.runtimeconfig.json
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Common.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Dapper.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IO.Hashing.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.pdb
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.pdb
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.pdb
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.AssemblyReference.cache
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfoInputs.cache
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfo.cs
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CoreCompileInputs.cache
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\scopedcss\bundle\TrueMed.Sevices.MasterPortalAppManagement.styles.css
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CopyComplete
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\refint\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.genruntimeconfig.cache
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\ref\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.dll
+E:\New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.exe
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AppSettings\globalconfig.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.deps.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.runtimeconfig.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Dapper.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.AssemblyReference.cache
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfoInputs.cache
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfo.cs
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CoreCompileInputs.cache
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.TrueMed.Sevices.MasterPortalAppManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\scopedcss\bundle\TrueMed.Sevices.MasterPortalAppManagement.styles.css
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CopyComplete
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\refint\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.genruntimeconfig.cache
+C:\Users\emp 2bvt\source\TruemedServices\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\ref\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.exe
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AppSettings\globalconfig.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.deps.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.runtimeconfig.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Identity.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Common.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Dapper.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Humanizer.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.CodeDom.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IO.Hashing.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.AssemblyReference.cache
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfoInputs.cache
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfo.cs
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CoreCompileInputs.cache
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.TrueMed.Sevices.MasterPortalAppManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TrueMed.Sevices.MasterPortalAppManagement.props
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrueMed.Sevices.MasterPortalAppManagement.props
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrueMed.Sevices.MasterPortalAppManagement.props
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\scopedcss\bundle\TrueMed.Sevices.MasterPortalAppManagement.styles.css
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CopyComplete
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\refint\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.genruntimeconfig.cache
+E:\New New New Project One\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\ref\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.AssemblyReference.cache
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfoInputs.cache
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfo.cs
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CoreCompileInputs.cache
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.exe
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AppSettings\globalconfig.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.deps.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.runtimeconfig.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Dapper.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\MailKit.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\MimeKit.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.TrueMed.Sevices.MasterPortalAppManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\scopedcss\bundle\TrueMed.Sevices.MasterPortalAppManagement.styles.css
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CopyComplete
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\refint\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.genruntimeconfig.cache
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\ref\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\emp 2bvt\source\ProjectOne\Services\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.exe
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AppSettings\globalconfig.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.deps.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.runtimeconfig.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Dapper.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\MailKit.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\MimeKit.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.AssemblyReference.cache
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfoInputs.cache
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfo.cs
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CoreCompileInputs.cache
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.TrueMed.Sevices.MasterPortalAppManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrueMed.Sevices.MasterPortalAppManagement.props
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\scopedcss\bundle\TrueMed.Sevices.MasterPortalAppManagement.styles.css
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CopyComplete
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\refint\TrueMed.Sevices.MasterPortalAppManagement.dll
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.genruntimeconfig.cache
+C:\Users\nauman.ali\Source\Workspaces\Project One\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\ref\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\appsettings.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.exe
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AppSettings\globalconfig.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.deps.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.runtimeconfig.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Data.AppConfiguration.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Identity.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Messaging.EventGrid.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Azure.Storage.Common.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Dapper.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.Interfaces.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Humanizer.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\MailKit.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.FeatureManagement.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.FeatureManagement.AspNetCore.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\MimeKit.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\NETCore.MailKit.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.IO.Hashing.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Business.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Domain.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalAppManagement.Domain.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.MasterPortalServices.BusinessLayer.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.Validator.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.CompendiumManagement.Domain.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.FacilityManagement.Domain.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.InsuranceManagement.Domains.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.PatientManagement.Domain.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Business.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\bin\Debug\net6.0\TrueMed.UserManagement.Domain.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.AssemblyReference.cache
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfoInputs.cache
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.AssemblyInfo.cs
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CoreCompileInputs.cache
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.TrueMed.Sevices.MasterPortalAppManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TrueMed.Sevices.MasterPortalAppManagement.props
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrueMed.Sevices.MasterPortalAppManagement.props
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrueMed.Sevices.MasterPortalAppManagement.props
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\scopedcss\bundle\TrueMed.Sevices.MasterPortalAppManagement.styles.css
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.csproj.CopyComplete
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\refint\TrueMed.Sevices.MasterPortalAppManagement.dll
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.xml
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.pdb
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\TrueMed.Sevices.MasterPortalAppManagement.genruntimeconfig.cache
+E:\TrueMedProjectOne\TrueMed.Services.MasterPortalAppManagement\obj\Debug\net6.0\ref\TrueMed.Sevices.MasterPortalAppManagement.dll

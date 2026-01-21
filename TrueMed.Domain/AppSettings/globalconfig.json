@@ -1,0 +1,39 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "AzureConnectionString": "DefaultEndpointsProtocol=https;AccountName=truemedpo;AccountKey=erX4ezehUrWQrMsu2ALVQlzkJDOAT/kMqfg7sNQenIh++a26fmKfY0g66WqS14GvgkhhR7gQgEtv+AStTQPg6g==;EndpointSuffix=core.windows.net",
+    "MasterDBConnectionString": "Data Source=tmitprojectonescus.database.windows.net;Initial Catalog=TMIT-MasterPortal-DB;Integrated Security=false;user id=tmituser;pwd=WaterMark123$$;MultipleActiveResultSets=True",
+    "AzureConnectionStringNew": "DefaultEndpointsProtocol=https;AccountName=truemedpo;AccountKey=W5BiYQ+95wBeb9RgvLjil1/qNv45JpHy1SK5e/Gq2SP/+bty01xMFa/xot3HyJNCEq9BvZPARiRr+ASth4Igog==;EndpointSuffix=core.windows.net",
+    "RedisCache": "tmporediscache.redis.cache.windows.net:6380,password=p4sN4VOUh0UF0hXHH4TP3LkINu9LXiqXxAzCaD83HWA=,ssl=True,abortConnect=False"
+  },
+  "MailSettings": {
+    "Username": "info@digitalrequisitions.com",
+    "Port": 587,
+    "Password": "xkKB3ZFsFHi7O0OpReJq9w",
+    "HostName": "smtp.mandrillapp.com",
+    "FromName": "TrueMed"
+  },
+  "AllowedHosts": "*",
+  "RegisteredApps": {
+    "Default": {
+      "ConnectionString": "Data Source=localhost;Initial Catalog=sharedTenantDb;Integrated Security=True;MultipleActiveResultSets=True"
+    },
+    "MasterConfigs": {
+      "ConnectionString": "Data Source=tmitprojectonescus.database.windows.net;Initial Catalog=TMIT-MasterPortal-DB;Integrated Security=false;user id=tmituser;pwd=WaterMark123$$;MultipleActiveResultSets=True"
+    },
+    "Apps": [
+      {
+        "PortalName": "DemoApp",
+        "LiveDbConnectionString": "Data Source=tmitprojectonescus.database.windows.net;Initial Catalog=TMIT-DemoLab-DB;Integrated Security=false;user id=tmituser;pwd=WaterMark123$$;MultipleActiveResultSets=True"
+      }
+    ]
+  }
+  //"AZURE_CLIENT_ID": "3f172417-0287-4131-8116-7c38411d0596",
+  //"AZURE_CLIENT_SECRET": "eMV8Q~~4WA2v7FdObDmcyLIN2nlYbBhs1Y6T3ciA",
+  //"AZURE_TENANT_ID": "6e858cb2-c70c-4db3-91c8-a96407738c2f"
+}

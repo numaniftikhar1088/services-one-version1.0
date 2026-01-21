@@ -1,0 +1,1122 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/Account/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpousermanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Account/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Lab_UserRolesAndRights/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpousermanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Lab_UserRolesAndRights/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Account_V2/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpousermanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Account_V2/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Blob/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpousermanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/Blob/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Template/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpousermanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "DownstreamPathTemplate": "/api/Template/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LabManagement/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpomasterportalappmanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/LabManagement/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Lab_ReferenceLabManagement/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpomasterportalappmanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Lab_ReferenceLabManagement/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PanelSetup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpomasterportalappmanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/PanelSetup/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/RequisitionType/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpomasterportalappmanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/RequisitionType/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/LoadReqSection/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporequisitionservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/LoadReqSection/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "requisitionmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PendingRequisition/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporequisitionservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/PendingRequisition/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "requisitionmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Requisition/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporequisitionservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Requisition/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "requisitionmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/DrugAllergiesAssignment/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporequisitionservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/DrugAllergiesAssignment/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "requisitionmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/PrinterSetup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporequisitionservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/PrinterSetup/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "requisitionmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/BulkCheckIn/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporequisitionservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/BulkCheckIn/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "requisitionmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/DrugAllergy/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpomasterportalappmanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/DrugAllergy/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/TestsSetup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpomasterportalappmanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/TestsSetup/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Department/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "DownstreamPathTemplate": "/api/Department/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Master/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpomasterportalappmanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+
+      "DownstreamPathTemplate": "/api/{everything}",
+      "RouteIsCaseSensitive": false,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "masterportalmanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/Token",
+      "UpstreamHttpMethod": [ "Post", "Get", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpousermanagement-dev.azurewebsites.net"
+        }
+      ],
+      "DownstreamPathTemplate": "/Token",
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "usermanagement"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Facility/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpofacilitymanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/Facility/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/LabAssignment/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpofacilitymanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/LabAssignment/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/AssignRefLabAndGroup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpofacilitymanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/AssignRefLabAndGroup/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/LabFacInsTypeAssignment/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpofacilitymanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/LabFacInsTypeAssignment/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/FacilityOptions/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpofacilitymanagement-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "facilitymanagement",
+      "DownstreamPathTemplate": "/api/FacilityOptions/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/InsuranceAssignment/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpoinsuranceservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/InsuranceAssignment/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/InsuranceProvider/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpoinsuranceservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/InsuranceProvider/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/InsuranceType/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpoinsuranceservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/InsuranceType/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/ICD10Code/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpoinsuranceservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/ICD10Code/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/ICD10CodeAssignment/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpoinsuranceservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/ICD10CodeAssignment/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/OrderInsurance/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpoinsuranceservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "insurancemanagement",
+      "DownstreamPathTemplate": "/api/OrderInsurance/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/PatientLoginUser/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpopatientservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "patientmanagement",
+      "DownstreamPathTemplate": "/api/PatientLoginUser/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/PatientInsurances/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpopatientservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "patientmanagement",
+      "DownstreamPathTemplate": "/api/PatientInsurances/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/PatientManagement/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpopatientservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "SwaggerKey": "patientmanagement",
+      "DownstreamPathTemplate": "/api/PatientManagement/{everything}"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporequisitionservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 0,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "requisitionmanagement",
+      "DownstreamPathTemplate": "/api/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/CompendiumPanelSetup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/CompendiumPanelSetup/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/CompendiumGroup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/CompendiumGroup/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumDataAssayData/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumDataAssayData/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumPanelMapping/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumPanelMapping/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/TestSetup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/TestSetup/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/SpecimenType/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/SpecimenType/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/SpecimenTypeAssignment/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/SpecimenTypeAssignment/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumReportingRules/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumReportingRules/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDCompendiumControlReportingRule/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put", "Patch" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpocompendiumservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "compendiummanagement",
+      "DownstreamPathTemplate": "/api/IDCompendiumControlReportingRule/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/ResultFile/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpolisservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/ResultFile/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDResultData/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpolisservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/IDResultData/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/InfectiousDiseasesResultUpload/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpolisservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/InfectiousDiseasesResultUpload/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDLISPreConfiguration/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpolisservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/IDLISPreConfiguration/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDBatchQC/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpolisservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/IDBatchQC/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/QCBatchSetup/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmpolisservice-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "lismanagement",
+      "DownstreamPathTemplate": "/api/QCBatchSetup/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/IDLISReport/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporeportingserver-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "reportingserver",
+      "DownstreamPathTemplate": "/api/IDLISReport/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/ReqOrderView/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporeportingserver-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "reportingserver",
+      "DownstreamPathTemplate": "/api/ReqOrderView/{everything}",
+      "RouteIsCaseSensitive": false
+    },
+    {
+      "UpstreamPathTemplate": "/api/BatchQCReport/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete", "Put" ],
+      "DownStreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Port": 80,
+          "Host": "tmporeportingserver-dev.azurewebsites.net"
+        }
+      ],
+      "Priority": 1,
+      "RateLimitOptions": {
+        "DisableRateLimitHeaders": true
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "SwaggerKey": "reportingserver",
+      "DownstreamPathTemplate": "/api/BatchQCReport/{everything}",
+      "RouteIsCaseSensitive": false
+    }
+
+
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "masterportalmanagement",
+      "Config": [
+        {
+          "Name": "Master Portal Management",
+          "Version": "v1",
+          "Url": "https://tmpomasterportalappmanagement-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "usermanagement",
+      "Config": [
+        {
+          "Name": "User Management",
+          "Version": "v1",
+          "Url": "https://tmpousermanagement-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "facilitymanagement",
+      "Config": [
+        {
+          "Name": "Facility Management",
+          "Version": "v1",
+          "Url": "https://tmpofacilitymanagement-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "insurancemanagement",
+      "Config": [
+        {
+          "Name": "Insurance Management",
+          "Version": "v1",
+          "Url": "https://tmpoinsuranceservice-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "requisitionmanagement",
+      "Config": [
+        {
+          "Name": "Requisition Management",
+          "Version": "v1",
+          "Url": "https://tmporequisitionservice-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "patientmanagement",
+      "Config": [
+        {
+          "Name": "Patient Management",
+          "Version": "v1",
+          "Url": "https://tmpopatientservice-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "compendiummanagement",
+      "Config": [
+        {
+          "Name": "Compendium Management",
+          "Version": "v1",
+          "Url": "https://tmpocompendiumservice-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "lismanagement",
+      "Config": [
+        {
+          "Name": "LIS Management",
+          "Version": "v1",
+          "Url": "https://tmpolisservice-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "reportingserver",
+      "Config": [
+        {
+          "Name": "Reporting Server",
+          "Version": "v1",
+          "Url": "https://tmporeportingserver-dev.azurewebsites.net/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "tmpoapigetwayscus-dev.azurewebsites.net",
+    "SkipSslValidation": true
+  }
+}
+ 

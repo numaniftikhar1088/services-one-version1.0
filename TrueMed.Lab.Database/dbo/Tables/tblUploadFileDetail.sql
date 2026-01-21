@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[tblUploadFileDetail] (
+    [ID]               INT            IDENTITY (1, 1) NOT NULL,
+    [UploadPageName]   NVARCHAR (MAX) NOT NULL,
+    [LabID]            INT            NULL,
+    [FileName]         NVARCHAR (MAX) NULL,
+    [FileType]         NVARCHAR (MAX) NULL,
+    [FileDataType]     NVARCHAR (MAX) NULL,
+    [AzureLink]        NVARCHAR (MAX) NULL,
+    [ReceivedPath]     NVARCHAR (100) NULL,
+    [Status]           NVARCHAR (100) NULL,
+    [ExceptionMessage] NVARCHAR (MAX) NULL,
+    [StackMessage]     NVARCHAR (MAX) NULL,
+    [CSTTime]          DATETIME2 (7)  NULL,
+    [IsQueued]         BIT            NULL,
+    [IsProcessed]      BIT            NULL,
+    [ProcessedDate]    DATETIME       NULL,
+    [UploadedBy]       NVARCHAR (200) NULL,
+    [UploadedDate]     DATETIME       NULL,
+    [IsCompleted]      BIT            NULL,
+    [DeletedBy]        NVARCHAR (MAX) NULL,
+    [DeletedDate]      DATETIME2 (7)  NULL,
+    [IsDeleted]        BIT            CONSTRAINT [DF_tblUploadFileDetail_IsDeleted] DEFAULT ((0)) NOT NULL,
+    CONSTRAINT [PK_tblUploadFileDetail] PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

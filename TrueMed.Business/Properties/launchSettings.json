@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TrueMed.Business": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:64437;http://localhost:64438"
+    }
+  }
+}

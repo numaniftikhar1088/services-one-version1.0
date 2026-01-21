@@ -1,0 +1,127 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Helpers\GenericRepositoryPatthern\**" />
+    <Compile Remove="Models\Entities\**" />
+    <Compile Remove="Models\FormBuilder\**" />
+    <Compile Remove="Repositories\FormBuilder\**" />
+    <Compile Remove="Repositories\Logging\**" />
+    <Compile Remove="Repositories\Requisition\**" />
+    <EmbeddedResource Remove="Helpers\GenericRepositoryPatthern\**" />
+    <EmbeddedResource Remove="Models\Entities\**" />
+    <EmbeddedResource Remove="Models\FormBuilder\**" />
+    <EmbeddedResource Remove="Repositories\FormBuilder\**" />
+    <EmbeddedResource Remove="Repositories\Logging\**" />
+    <EmbeddedResource Remove="Repositories\Requisition\**" />
+    <None Remove="Helpers\GenericRepositoryPatthern\**" />
+    <None Remove="Models\Entities\**" />
+    <None Remove="Models\FormBuilder\**" />
+    <None Remove="Repositories\FormBuilder\**" />
+    <None Remove="Repositories\Logging\**" />
+    <None Remove="Repositories\Requisition\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Databases\ApplicationDbContext.cs" />
+    <Compile Remove="Databases\ApplicationDbContextExtention.cs" />
+    <Compile Remove="Databases\MasterDbContext.cs" />
+    <Compile Remove="Databases\MasterDbContextExtention.cs" />
+    <Compile Remove="Enums\GlobalUserTypeEnum.cs" />
+    <Compile Remove="Helpers\ApiControllerExtention.cs" />
+    <Compile Remove="Helpers\CurrentUserInfo.cs" />
+    <Compile Remove="Helpers\DBConString.cs" />
+    <Compile Remove="Helpers\EnconterConnection.cs" />
+    <Compile Remove="Helpers\GlobalFilter.cs" />
+    <Compile Remove="Helpers\HandleException.cs" />
+    <Compile Remove="Helpers\IEnconterConnection.cs" />
+    <Compile Remove="Helpers\LocalApplicationRuntimeLogStorage.cs" />
+    <Compile Remove="Helpers\RequestHeader.cs" />
+    <Compile Remove="Helpers\RequiredPortal_X_Portal_Key.cs" />
+    <Compile Remove="Helpers\UniqueEmailAttribute.cs" />
+    <Compile Remove="Helpers\UniqueUsernameAttribute.cs" />
+    <Compile Remove="Helpers\X_Portal_Key_EXCEPTION.cs" />
+    <Compile Remove="Models\Database_Sets\Application\ApplicationSetting.cs" />
+    <Compile Remove="Models\Database_Sets\Application\BloodTestAssignmentForDemo.cs" />
+    <Compile Remove="Models\Database_Sets\Application\BloodTestRangesForDemo.cs" />
+    <Compile Remove="Models\Database_Sets\Master\IcdcodeforDemo.cs" />
+    <Compile Remove="Models\Database_Sets\Master\InsuranceHonu.cs" />
+    <Compile Remove="Models\Database_Sets\Master\InsuranceLabLinq.cs" />
+    <Compile Remove="Models\Database_Sets\Master\InsuranceMagnolium.cs" />
+    <Compile Remove="Models\Database_Sets\Master\InsuranceNovaDx.cs" />
+    <Compile Remove="Models\Database_Sets\Master\InsuranceRawDatum.cs" />
+    <Compile Remove="Models\Database_Sets\Master\InsuranceUnited.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblDepartment.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblExternalProvider.cs" />
+    <Compile Remove="Models\Database_Sets\Master\tblExternalProviders.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblInsTestAssignment.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblLabSectionsControl.cs" />
+    <Compile Remove="Models\Database_Sets\Master\tblLabUsers.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblModuleDeniedControl.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblModuleDeniedSection.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblNetworkType.cs" />
+    <Compile Remove="Models\Database_Sets\Master\tblRole.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblSpecimenType.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblState.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblUserActivity.cs" />
+    <Compile Remove="Models\Database_Sets\Master\TblUserfavouriteMenu.cs" />
+    <Compile Remove="Models\Database_Sets\Master\tblUserRole.cs" />
+    <Compile Remove="Models\Database_Sets\Master\VwPhysician.cs" />
+    <Compile Remove="Models\Logger\UserActivityLogViewModel.cs" />
+    <Compile Remove="Repositories\Identity\Implementation\UserManagement.cs" />
+    <Compile Remove="Repositories\Identity\Interface\IUserManagement.cs" />
+    <Compile Remove="Repositories\Lab\Implementation\LaboratoryManagement.cs" />
+    <Compile Remove="Repositories\Lab\Interface\ILaboratoryManagement.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Extensions.AspNetCore.Configuration.Secrets" Version="1.2.2" />
+    <PackageReference Include="Azure.Identity" Version="1.8.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.14.1" />
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.AspNet.Identity.Core" Version="2.2.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel.Core" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Graph" Version="4.45.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.6.96" />
+    <PackageReference Include="System.Linq.Dynamic" Version="1.0.8" />
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="AppSettings\globalconfig.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Repositories\Identity\Implementation\" />
+    <Folder Include="Repositories\Lab\Implementation\" />
+  </ItemGroup>
+
+</Project>
